@@ -1,6 +1,6 @@
 MLOps by silro
 ==============================
-selectstar
+selectstar*
 
 mlpos pipeline lab
 
