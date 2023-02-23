@@ -1,6 +1,5 @@
-project_name
+MLOps by silro
 ==============================
-make by silro
 
 mlpos pipeline lab
 
